@@ -125,7 +125,7 @@ I enjoy working at the intersection of
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=alphonsejs995&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alphonsejs995)
 
 
 ---
