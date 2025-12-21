@@ -1,5 +1,10 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
+<p align="center">
+  <img src="banner.gif" alt="Animated Banner" />
+</p>
+
+
 <h3 align="center">
 Training models 🤖, wiring circuits 🔌, and pretending it worked on the first try 😅🚀
 </h3>
