@@ -125,9 +125,7 @@ I enjoy working at the intersection of
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alphonsejs995&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=alphonsejs995&theme=dark)
 
 
 ---
