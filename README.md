@@ -1,8 +1,9 @@
 <h1 align="center">Hey 👋 What's up?</h1>
 
 <p align="center">
-  <img src="ALPHONSE J S.gif" width="100%"  />
+  <img src="banner.png" width="100%" />
 </p>
+
 
 
 <h3 align="center">
