@@ -126,8 +126,9 @@ I enjoy working at the intersection of
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=alphonsejs995&theme=dracula" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=alphonsejs995&theme=dracula&hide_border=true" />
 </div>
+
 
 ---
 
