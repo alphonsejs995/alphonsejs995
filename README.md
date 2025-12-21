@@ -134,7 +134,8 @@ I enjoy working at the intersection of
 
 ## 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/alphonsejs995/alphonsejs995/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alphonsejs995/alphonsejs995/output/snake-dark.svg" alt="Snake animation" />
+
 
 ---
 
