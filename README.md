@@ -10,13 +10,13 @@
 Training models 🤖, wiring circuits 🔌, and pretending it worked on the first try 😅🚀
 </h3>
 
----
+--
 
 <div align="center">
   <img height="160" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 </div>
 
----
+--
 
 ## 👨‍💻 About Me
 
@@ -31,7 +31,7 @@ I enjoy working at the intersection of
 
 > I break stuff, fix it, automate it, and document it on GitHub.
 
----
+--
 
 ## 🔭 What I’m Currently Working On
 - 👓 **AI Glasses for Visually Impaired** (real-time object detection)
@@ -39,7 +39,7 @@ I enjoy working at the intersection of
 - 🤖 ESP32 & Raspberry Pi based **robotics + automation**
 - ⚡ Optimizing AI for **low-power devices**
 
----
+--
 
 ## 🛠️ Tech Stack & Tools
 
