@@ -45,7 +45,7 @@ I enjoy working at the intersection of
 
 ### 🧠 AI / Data / Software
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv,git,sql,r" />
+  <img src="https://skillicons.dev/icons?i=python,opencv,git,r" />
 </p>
 
 - Python 🐍  
