@@ -22,7 +22,7 @@ Training models 🤖, wiring circuits 🔌, and pretending it worked on the firs
 
 🎓 **B.Tech Artificial Intelligence & Machine Learning (Honours in Computer Vision)**  
 📍 Kerala, India  
-📊 **CGPA: 9.56 (till 4th semester)**  
+
 
 I’m an **aspiring AI & ML engineer** who believes the best way to learn is by **building real things** — from **AI-powered vision systems** to **ESP32 robot cars** and **IoT automation**.
 
